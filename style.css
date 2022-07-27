@@ -1,0 +1,394 @@
+*{
+    margin: 0;
+}
+.hb{
+    background-image: url(main-screen__bgc.png);
+    background-repeat: no-repeat;
+    height: 900px;
+}
+.head{
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 80px;
+    border: 2px solid transparent;
+    font-size: 2em;
+    color: black;
+    align-items: center;
+    display: flex;
+   
+}
+#nd{
+    margin-left: 300px;
+    color: white;
+    text-decoration: none;
+    margin-right: 100px;
+    font-size: 0.6em;
+}
+#st{
+    color: white;
+    text-decoration: none;
+    margin-right: 80px;
+    font-weight: 100;
+    font-size: 0.6em;
+}
+.but{
+    margin-left: 100px;
+    background-image: linear-gradient(to right, purple, lightblue);
+    height: 35px;
+    padding: 15px;
+    border: 2px solid;
+    border-radius: 60px;
+    width: 220px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.body{
+    height: 840px;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.bolo{
+    color: white;
+    border: 2px solid transparent;
+    width: 920px;
+    height: 180px;
+    font-size: 4em;
+    font-weight: 900;
+    margin-left: 320px;
+    margin-top: 270px;
+    
+}
+.day{
+    border: 1px solid transparent;
+    color: white;
+    width: 80px;
+    margin-left: 40%;
+    text-align: center;
+    align-items: center;
+    font-size: 2.8em;
+}
+#a{
+    font-size: 0.4em;
+    font-weight: 100;
+    color: grey;
+}
+.time{
+    display: flex;
+    width: 10%;
+    margin-left: 260px;
+}
+.down{
+    display: flex;
+    background-color: black;
+    margin-top: 60px;
+}
+.but1{
+    margin-left: 300px;
+    background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+    height: 35px;
+    padding: 15px;
+    border: 2px solid;
+    border-radius: 60px;
+    width: 220px;   
+    align-items: center;
+    text-align: center;
+    font-size: 2em;
+}
+.pr{
+    margin-left: 50px;
+    align-items: center;
+    font-size: 1.5em;
+    color: white;
+}
+.abb{
+    display: flex;
+}
+#aa{
+    margin-left: 100px;
+}
+.zar{
+    margin-left: 100px;a
+    font-size: 1.5em;
+    color: white;
+}
+.av{
+    width: 714px;
+    height: 6px;
+    background-color: white;
+}
+.av1{
+    height: 6px;
+    width: 440px;
+    background: linear-gradient(94.78deg, #DF5950 11.19%, #451046 93.72%);
+}
+.body2{
+    align-items: center;
+    margin: auto;
+    margin-top: 200px;
+    background-color: black;
+    display: flex;
+}
+.pc{
+    border: 20px solid purple;
+    height: 430px;
+    width: 450px;margin: auto;
+}
+img{
+    margin: auto;
+    margin-top: 60px;
+}
+body{
+    background-color: black;
+}
+#st{
+    text-align: start;
+}
+#fn{
+    text-align: right;
+}
+.sum{
+    display: flex;
+}
+.pr2{
+    color: white;
+}
+#bb{
+    width: 800px;
+    margin-right: 100px;
+    font-size: 1.5em;
+}
+#bbb{
+    font-size: 3em;
+    margin-bottom: 70px
+}
+.body3{
+    color: white;
+}
+.sta{
+    height: 120px;
+    width: 500px;
+    display: flex;
+    font-size: 3em;
+    padding: 0;
+    align-items: center;
+}
+.sta p{
+    margin-top: 80px;
+}
+#abc{
+    color: grey;
+    font-size: 1.5em;
+    margin-top: 80px;
+    margin-left: 150px;
+    width: 470px;
+}
+.pros{
+    display: flex;
+    align-items: center;
+    margin-left: 18%;
+    margin-top: 2%;
+}
+.pros1{
+    height: 80px;
+    width: 324px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+.pros2{
+    height: 60px;
+    width: 324px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+.pros3{
+    height: 30px;
+    width: 324px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+.pros4{
+    height: 10px;
+    width: 324px;
+    background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+}
+.pros11{
+    display: flex;
+}
+.pros11 p{
+    margin-top: 6%;
+    font-size: 1.5em;
+    margin-left: 280px;
+}
+#pros1{
+    margin-left: 18%;
+}
+.pros12{
+    display: flex;
+    margin-left: 315px;
+}
+.pros12 p{
+    margin-top: 20px;
+    width: 300px;
+    margin-left: 30PX;
+}
+.body4{
+    color: white;
+}
+.ic1{
+    width: 450px;
+}
+.icons{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin-left: 280px;
+}
+.body4 p{
+ font-size: 2em;
+ text-align: center;
+ align-items: center;
+ margin-top: 50px
+}
+#aaa{
+    align-items: center;
+    text-align: center;
+    margin-top: 250px;
+    font-size: 4em; 
+}
+#abbc{
+    font-size: 1.3em;
+    color: grey;
+    align-items: center;
+    text-align: center;
+}
+.body5{
+    color: white;
+}
+.body5 img{
+    margin-left: 100px;
+}
+.ast{
+    display: flex;
+    font-size: 3em;
+    margin-top: 80px;
+}
+.ast p{
+    margin-right: 1100px;
+    margin-top: 60px;
+}
+.ats{
+    align-items: center;
+    text-align: center;
+}
+.body6{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+#acc{
+    font-size: 3em;
+    margin-top: 50px;
+}
+#bbc{
+    font-size: 2em;
+    margin-top: 40px;
+    color: grey;
+}
+.body7{
+    color: white;
+}
+#accb{
+    font-size: 2em;
+    display: flex;
+    margin-left: 20%;
+    margin-top: 30px;
+
+}
+#bbcc{
+    font-size: 1.5em;
+    color: grey;
+    margin-left: 33%;
+    margin-top: 80px;
+    display: flex;
+}
+.abcc{
+    border: 1px solid;
+    width: 40px;
+    height: 0px;
+}
+#abcde{
+    width: 100%;
+}
+.body8{
+    
+}
+#bcde{
+    color: white;
+}
+.finish{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    color: white;
+}
+.finish1{
+    margin-left: 320px;
+    text-align: center;
+    align-items: center;
+    margin-top: 80px;
+}
+.finish1 img{
+    border-radius: 50%;
+    width: 190px;
+    height: 190px;
+}
+.finish2{
+    font-size: 1.5em;
+    margin-top: 30px;
+}
+.finish3{
+    font-size: 1em;
+    margin-top: 20px;
+    color: gray;
+}
+.finish4{
+    border: 1px solid white;
+    height: 30px;
+    align-items: center;
+    text-align: center;
+    border-radius: 60px;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+.body9{
+ margin: auto;
+}
+#bcdef{
+    color: white;
+    font-size: 3em;
+    width: 567px;
+    margin-left: 38%;
+}
+.xyz{
+    color: gray;
+    font-size: 1.5em;
+    width: 411px;
+    text-align: center;
+    margin-left: 40%;
+}
+textarea{
+    display: flex;
+    font-size: 1.5em;
+    align-items: center;
+    margin-top: 10px;
+    width: 300px;
+    height: 24px;
+    border-bottom-left-radius: 60px;
+    border-top-left-radius: 60px;
+    margin-top: 50px;
+}
+.email1{
+    display: flex;
+}
